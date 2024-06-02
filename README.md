@@ -1,6 +1,6 @@
 # TicTacToe Game
 
-This is a simple implementation of the classic Tic Tac Toe game, designed to be played in a web browser. Players take turns marking spaces in a 3x3 grid, aiming to be the first to get three of their marks in a row, either horizontally, vertically, or diagonally.
+🎮 This is a simple implementation of the classic Tic Tac Toe game, designed to be played in a web browser. Players take turns marking spaces in a 3x3 grid, aiming to be the first to get three of their marks in a row, either horizontally, vertically, or diagonally.
 
 ## Features
 
