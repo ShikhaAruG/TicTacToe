@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(34, 37, 40);
+    position: relative;
+}
+
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-size: 75px;
+    font-family:Haettenschweiler;
+    background-color: antiquewhite;
+    border-radius:20px;
+}
+
+h1{
+    font-size: 85px;
+    font-family:Haettenschweiler;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    font-family:Haettenschweiler; 
+}
+
+.container .jumbotron {
+ /* filter: saturate(black); */
+ background-image: url('background.png');
+ color: rgb(255, 255, 255);
+ opacity: 0.8;
+}
+
+.btn{
+ background-color: rgb(0, 0, 0);
+ color:rgb(255, 255, 255);
+ font-size: 15px;
+}
+
+td:hover{
+    background-color: cadetblue;
+}
+
+#right-bottom{
+    border-right: 5px solid black;
+    border-bottom:5px solid black;
+}
+#bottom{
+    border-bottom:5px solid black;
+}
+#right{
+    border-right: 5px solid black;
+}
